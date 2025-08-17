@@ -24,7 +24,7 @@ This is the backend server for a Learning Management System (LMS). It provides A
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/luvkumar404/lms-server.git
+    git clone https://github.com/luvkumar404/LMS-Server.git
     ```
 2.  Install the dependencies:
     ```bash
